@@ -40,6 +40,9 @@ body{
     background: black;
     color: white;
 }
+iframe{
+    width: 60%;
+}
 
 .boxp{
     border: 1px solid silver;
